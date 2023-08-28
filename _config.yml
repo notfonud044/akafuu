@@ -22,8 +22,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to my userpage!
-email: your-email@domain.com
+title: Good luck have fun :D
+email: I no have one owo
 author: akafuu
 
 # Copyright setting
@@ -69,7 +69,7 @@ header_transparent: true
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-lang: "cn"  # default lang is en
+# lang: "cn"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
